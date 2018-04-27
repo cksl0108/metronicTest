@@ -1,6 +1,9 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<script  src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
-<!DOCTYPE html>
 <html>
 	<!-- begin::Head -->
 	<head>
@@ -14,9 +17,11 @@
 		<link href="https://fonts.googleapis.com/css?family=Song+Myung|Source+Code+Pro" rel="stylesheet">
         <!--begin::Base Styles -->
 		<link href="./resources/assets/vendors/base/vendors.bundle.css" rel="stylesheet" type="text/css" />
-		<link href="./resources/assets/demo/demo10/base/style.bundle.css" rel="stylesheet" type="text/css" />
+		<link href="./resources/assets/demo/default/base/style.bundle.css" rel="stylesheet" type="text/css" />
 		<!--end::Base Styles -->
-		<link rel="shortcut icon" href="./resources/assets/demo/demo10/media/img/logo/favicon.ico" />
+		<link rel="shortcut icon" href="./resources/assets/demo/default/media/img/logo/favicon.ico" />
+		<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	</head>
 	<!-- end::Head -->
     <!-- end::Body -->
@@ -60,31 +65,8 @@
 											</div>
 										</div>
 										<div class="m-login__form-action">
-											<button id="m_login_signin_submit" class="btn btn-focus m-btn m-btn--pill m-btn--custom m-btn--air">
+											<button id="m_login_signin_submit" class="btn btn-focus m-btn m-btn--pill m-btn--custom m-btn--air" onclick="javascript:doLogin();">
 												로그인
-											</button>
-										</div>
-									</form>
-								</div>
-								<div class="m-login__forget-password">
-									<div class="m-login__head">
-										<h3 class="m-login__title">
-											Forgotten Password ?
-										</h3>
-										<div class="m-login__desc">
-											Enter your email to reset your password:
-										</div>
-									</div>
-									<form class="m-login__form m-form" action="">
-										<div class="form-group m-form__group">
-											<input class="form-control m-input" type="text" placeholder="Email" name="email" id="m_email" autocomplete="off">
-										</div>
-										<div class="m-login__form-action">
-											<button id="m_login_forget_password_submit" class="btn btn-focus m-btn m-btn--pill m-btn--custom m-btn--air">
-												Request
-											</button>
-											<button id="m_login_forget_password_cancel" class="btn btn-outline-focus m-btn m-btn--pill m-btn--custom">
-												Cancel
 											</button>
 										</div>
 									</form>
@@ -150,7 +132,7 @@
 						</form>
 					</div>
 					<div class="modal-footer">
-						<button type="button" class="btn btn-secondary" data-dismiss="modal">
+							<button type="button" class="btn btn-secondary" data-dismiss="modal">
 							Close
 						</button>
 						<button type="button" class="btn btn-primary">
@@ -164,11 +146,15 @@
 						
 		<!-- end:: Page -->
     	<!--begin::Base Scripts -->
-		<script src="./resources/assets/vendors/base/vendors.bundle.js" type="text/javascript"></script>
-		<script src="./resources/assets/demo/demo10/base/scripts.bundle.js" type="text/javascript"></script>
+<!-- 		<script src="./resources/assets/vendors/base/vendors.bundle.js" type="text/javascript"></script> -->
+<!-- 		<script src="./resources/assets/demo/default/base/scripts.bundle.js" type="text/javascript"></script> -->
 		<!--end::Base Scripts -->   
         <!--begin::Page Snippets -->
-		<script src="./resources/assets/snippets/custom/pages/user/login.js" type="text/javascript"></script>
+<!-- 		<script src="./resources/assets/snippets/custom/pages/user/login.js" type="text/javascript"></script> -->
+<!-- 		<script src="./js/login/login.js" type="text/javascript"></script> -->
+<%--  		<script src="<c:url value='./js/scripts.bundle.js'/>"></script> --%>
+		<script src="<c:url value="./js/login/login.js" />"></script>
+<%-- 		<script type="text/javascript" src="<c:url value="/js/login/login.js" />"></script> --%>
 		<!--end::Page Snippets -->
 	</body>
 	<!-- end::Body -->
