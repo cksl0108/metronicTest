@@ -99,7 +99,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="assets/app/media/img/client-logos/logo3.png" alt="">
+													<img src="/resources/assets/app/media/img/client-logos/logo3.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -118,7 +118,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="assets/app/media/img/client-logos/logo1.png" alt="">
+													<img src="/resources/assets/app/media/img/client-logos/logo1.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -137,7 +137,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="assets/app/media/img/client-logos/logo2.png" alt="">
+													<img src="/resources/assets/app/media/img/client-logos/logo2.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -312,7 +312,7 @@
 									<div class="m-portlet__body">
 										<div class="m-widget19">
 											<div class="m-widget19__pic m-portlet-fit--top m-portlet-fit--sides" style="min-height-: 286px">
-												<img src="assets/app/media/img//blog/blog1.jpg" alt="">
+												<img src="/resources/assets/app/media/img//blog/blog1.jpg" alt="">
 												<h3 class="m-widget19__title m--font-light">
 													Introducing New Feature
 												</h3>
@@ -321,7 +321,7 @@
 											<div class="m-widget19__content">
 												<div class="m-widget19__header">
 													<div class="m-widget19__user-img">
-														<img class="m-widget19__img" src="assets/app/media/img//users/user1.jpg" alt="">
+														<img class="m-widget19__img" src="/resources/assets/app/media/img//users/user1.jpg" alt="">
 													</div>
 													<div class="m-widget19__info">
 														<span class="m-widget19__username">
@@ -558,7 +558,7 @@
 									<div class="m-portlet__body">
 										<div class="m-widget27 m-portlet-fit--sides">
 											<div class="m-widget27__pic">
-												<img src="assets/app/media/img//bg/bg-4.jpg" alt="">
+												<img src="/resources/assets/app/media/img//bg/bg-4.jpg" alt="">
 												<h3 class="m-widget27__title m--font-light">
 													<span>
 														<span>
@@ -1747,7 +1747,7 @@
 											<div class="m-widget3__item">
 												<div class="m-widget3__header">
 													<div class="m-widget3__user-img">
-														<img class="m-widget3__img" src="assets/app/media/img/users/user1.jpg" alt="">
+														<img class="m-widget3__img" src="/resources/assets/app/media/img/users/user1.jpg" alt="">
 													</div>
 													<div class="m-widget3__info">
 														<span class="m-widget3__username">
@@ -1771,7 +1771,7 @@
 											<div class="m-widget3__item">
 												<div class="m-widget3__header">
 													<div class="m-widget3__user-img">
-														<img class="m-widget3__img" src="assets/app/media/img/users/user4.jpg" alt="">
+														<img class="m-widget3__img" src="/resources/assets/app/media/img/users/user4.jpg" alt="">
 													</div>
 													<div class="m-widget3__info">
 														<span class="m-widget3__username">
@@ -1795,7 +1795,7 @@
 											<div class="m-widget3__item">
 												<div class="m-widget3__header">
 													<div class="m-widget3__user-img">
-														<img class="m-widget3__img" src="assets/app/media/img/users/user5.jpg" alt="">
+														<img class="m-widget3__img" src="/resources/assets/app/media/img/users/user5.jpg" alt="">
 													</div>
 													<div class="m-widget3__info">
 														<span class="m-widget3__username">
@@ -1930,16 +1930,16 @@
 														</div>
 														<div class="m-list-pics m-list-pics--sm m--padding-left-20">
 															<a href="#">
-																<img src="assets/app/media/img/users/100_4.jpg" title="">
+																<img src="/resources/assets/app/media/img/users/100_4.jpg" title="">
 															</a>
 															<a href="#">
-																<img src="assets/app/media/img/users/100_13.jpg" title="">
+																<img src="/resources/assets/app/media/img/users/100_13.jpg" title="">
 															</a>
 															<a href="#">
-																<img src="assets/app/media/img/users/100_11.jpg" title="">
+																<img src="/resources/assets/app/media/img/users/100_11.jpg" title="">
 															</a>
 															<a href="#">
-																<img src="assets/app/media/img/users/100_14.jpg" title="">
+																<img src="/resources/assets/app/media/img/users/100_14.jpg" title="">
 															</a>
 														</div>
 													</div>
@@ -2679,7 +2679,7 @@
 												<div class="m-widget5">
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product6.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product6.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -2727,7 +2727,7 @@
 													</div>
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product10.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product10.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -2772,7 +2772,7 @@
 													</div>
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product11.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product11.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -2823,7 +2823,7 @@
 												<div class="m-widget5">
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product11.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product11.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -2868,7 +2868,7 @@
 													</div>
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product6.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product6.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -2913,7 +2913,7 @@
 													</div>
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product10.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product10.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -2964,7 +2964,7 @@
 												<div class="m-widget5">
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product10.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product10.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -3009,7 +3009,7 @@
 													</div>
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product11.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product11.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -3054,7 +3054,7 @@
 													</div>
 													<div class="m-widget5__item">
 														<div class="m-widget5__pic">
-															<img class="m-widget7__img" src="assets/app/media/img//products/product6.jpg" alt="">
+															<img class="m-widget7__img" src="/resources/assets/app/media/img//products/product6.jpg" alt="">
 														</div>
 														<div class="m-widget5__content">
 															<h4 class="m-widget5__title">
@@ -3185,7 +3185,7 @@
 										<div class="m-widget4">
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="assets/app/media/img/client-logos/logo5.png" alt="">
+													<img src="/resources/assets/app/media/img/client-logos/logo5.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -3204,7 +3204,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="assets/app/media/img/client-logos/logo4.png" alt="">
+													<img src="/resources/assets/app/media/img/client-logos/logo4.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -3223,7 +3223,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="assets/app/media/img/client-logos/logo3.png" alt="">
+													<img src="/resources/assets/app/media/img/client-logos/logo3.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -3242,7 +3242,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="assets/app/media/img/client-logos/logo2.png" alt="">
+													<img src="/resources/assets/app/media/img/client-logos/logo2.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">
@@ -3261,7 +3261,7 @@
 											</div>
 											<div class="m-widget4__item">
 												<div class="m-widget4__img m-widget4__img--logo">
-													<img src="assets/app/media/img/client-logos/logo1.png" alt="">
+													<img src="/resources/assets/app/media/img/client-logos/logo1.png" alt="">
 												</div>
 												<div class="m-widget4__info">
 													<span class="m-widget4__title">

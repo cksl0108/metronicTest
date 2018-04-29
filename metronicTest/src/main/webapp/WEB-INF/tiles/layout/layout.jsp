@@ -25,12 +25,12 @@
 		});
 	</script>
 	<!--end::Web font -->  
-	<link href="./resources/assets/vendors/custom/fullcalendar/fullcalendar.bundle.css" rel="stylesheet" type="text/css" />
+	<link href="/resources/assets/vendors/custom/fullcalendar/fullcalendar.bundle.css" rel="stylesheet" type="text/css" />
 	<!--end::Page Vendors -->
-	<link href="./resources/assets/vendors/base/vendors.bundle.css" rel="stylesheet" type="text/css" />
-	<link href="./resources/assets/demo/default/base/style.bundle.css" rel="stylesheet" type="text/css" />
+	<link href="/resources/assets/vendors/base/vendors.bundle.css" rel="stylesheet" type="text/css" />
+	<link href="/resources/assets/demo/default/base/style.bundle.css" rel="stylesheet" type="text/css" />
 	<!--end::Base Styles -->
-	<link rel="shortcut icon" href="./resources/assets/demo/default/media/img/logo/favicon.ico" />
+	<link rel="shortcut icon" href="/resources/assets/demo/default/media/img/logo/favicon.ico" />
 </head>
 	
 <body>

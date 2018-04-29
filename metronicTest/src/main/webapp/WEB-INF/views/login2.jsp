@@ -1,8 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <script  src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
 <html>
 	<!-- begin::Head -->
@@ -16,26 +14,24 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link href="https://fonts.googleapis.com/css?family=Song+Myung|Source+Code+Pro" rel="stylesheet">
         <!--begin::Base Styles -->
-		<link href="./resources/assets/vendors/base/vendors.bundle.css" rel="stylesheet" type="text/css" />
-		<link href="./resources/assets/demo/default/base/style.bundle.css" rel="stylesheet" type="text/css" />
+		<link href="/resources/assets/vendors/base/vendors.bundle.css" rel="stylesheet" type="text/css" />
+		<link href="/resources/assets/demo/default/base/style.bundle.css" rel="stylesheet" type="text/css" />
 		<!--end::Base Styles -->
-		<link rel="shortcut icon" href="./resources/assets/demo/default/media/img/logo/favicon.ico" />
-		<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<link rel="shortcut icon" href="/resources/assets/demo/default/media/img/logo/favicon.ico" />
 	</head>
 	<!-- end::Head -->
     <!-- end::Body -->
 	<body  class="m--skin- m-header--fixed m-header--fixed-mobile m-aside-left--enabled m-aside-left--skin-dark m-aside-left--offcanvas m-footer--push m-aside--offcanvas-default"  >
 		<!-- begin:: Page -->
 		<div class="m-grid m-grid--hor m-grid--root m-page" style="height : 100%;">
-			<div class="m-grid__item m-grid__item--fluid m-grid m-grid--ver-desktop m-grid--desktop m-grid--tablet-and-mobile m-grid--hor-tablet-and-mobile m-login m-login--1 m-login--signin" id="m_login" style="height : 100%; background-image: url(./resources/assets/app/media/img/bg/bg-3.jpg);">
+			<div class="m-grid__item m-grid__item--fluid m-grid m-grid--ver-desktop m-grid--desktop m-grid--tablet-and-mobile m-grid--hor-tablet-and-mobile m-login m-login--1 m-login--signin" id="m_login" style="height : 100%; background-image: url(/resources/assets/app/media/img/bg/bg-3.jpg);">
 				<div class="m-grid__item m-grid__item--order-tablet-and-mobile-2 m-login__aside">
 					<div class="m-stack m-stack--hor m-stack--desktop">
 						<div class="m-stack__item m-stack__item--fluid">
 							<div class="m-login__wrapper">
 								<div class="m-login__logo">
 									<a href="#">
-										<img src="./resources/assets/app/media/img/logos/logo-1.png">
+										<img src="/resources/assets/app/media/img/logos/logo-1.png">
 									</a>
 								</div>
 								<div class="m-login__signin">
@@ -46,10 +42,10 @@
 									</div>
 									<form class="m-login__form m-form" action="">
 										<div class="form-group m-form__group">
-											<input class="form-control m-input" type="text" placeholder="Id" required="required">
+											<input class="form-control m-input" type="text" placeholder="Id">
 										</div>
 										<div class="form-group m-form__group">
-											<input class="form-control m-input m-login__form-input--last" type="password" placeholder="Password" required="required">
+											<input class="form-control m-input m-login__form-input--last" type="password" placeholder="Password">
 										</div>
 										<div class="row m-login__form-sub">
 											<div class="col m--align-left">
@@ -146,14 +142,14 @@
 						
 		<!-- end:: Page -->
     	<!--begin::Base Scripts -->
-<!-- 		<script src="./resources/assets/vendors/base/vendors.bundle.js" type="text/javascript"></script> -->
-<!-- 		<script src="./resources/assets/demo/default/base/scripts.bundle.js" type="text/javascript"></script> -->
+<!-- 		<script src="/resources/assets/vendors/base/vendors.bundle.js" type="text/javascript"></script> -->
+<!-- 		<script src="/resources/assets/demo/default/base/scripts.bundle.js" type="text/javascript"></script> -->
 		<!--end::Base Scripts -->   
         <!--begin::Page Snippets -->
-<!-- 		<script src="./resources/assets/snippets/custom/pages/user/login.js" type="text/javascript"></script> -->
+<!-- 		<script src="/resources/assets/snippets/custom/pages/user/login.js" type="text/javascript"></script> -->
 <!-- 		<script src="./js/login/login.js" type="text/javascript"></script> -->
 <%--  		<script src="<c:url value='./js/scripts.bundle.js'/>"></script> --%>
-		<script src="<c:url value="./js/login/login.js" />"></script>
+		<script src="<c:url value="/js/login/login.js" />"></script>
 <%-- 		<script type="text/javascript" src="<c:url value="/js/login/login.js" />"></script> --%>
 		<!--end::Page Snippets -->
 	</body>
